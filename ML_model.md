@@ -15,5 +15,5 @@ This model will predict the tendency of people getting vaccinated and those that
 
 •	How does this model work?
 
-Based on the datasets, this model will predict the trend of people that are getting vaccinated. This prediction will be based on different CSV files including counties, demographics and different barriers.
+Based on the datasets, this model will predict the trend of people that are getting vaccinated. This prediction will be based on different CSV files including counties, demographics and different barriers. The model will be using data from the database in pgAdmin (SQL) called "COVID_Vaccination_Study".
 				
