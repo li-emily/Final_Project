@@ -1,0 +1,1 @@
+CREATE DATABASE COVID_Vaccination_Study
