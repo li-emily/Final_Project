@@ -14,7 +14,12 @@ CREATE TABLE Vaccination_Data
 
 CREATE TABLE per_capita_income 
     (county_name varchar, 
-    2018_income float, 
-    2019_income float, 
-    2020_income float
+    income_2018 float, 
+    income_2019 float, 
+    income_2020 float
     );
+
+COPY per_capita_income_counties(county, income_2018, income_2019, income_2020)
+FROM '/Users/zina/Desktop/Final Project Data/per_capita_income_counties.csv'
+DELIMITER ','
+CSV HEADER;    
