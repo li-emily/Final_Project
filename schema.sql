@@ -12,3 +12,9 @@ CREATE TABLE Vaccination_Data
 	 health_access_barriers varchar
 	);
 
+CREATE TABLE per_capita_income 
+    (county_name varchar, 
+    2018_income float, 
+    2019_income float, 
+    2020_income float
+    );
