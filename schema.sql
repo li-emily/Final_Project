@@ -11,3 +11,4 @@ CREATE TABLE Vaccination_Data
 	 sociodemographic_barriers varchar, 
 	 health_access_barriers varchar
 	);
+
