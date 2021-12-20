@@ -1,9 +1,23 @@
 # Final_Project
 
-COVID cases and vaccinations on a US county level lens.
+## Overview 
+**Topic**: COVID cases and vaccinations on a US county level lens.
 
-Question: How can we predict possible future cases/vaccinations? Where does the US need to focus on?
+**Question**: How can we predict possible future cases/vaccinations? Where does the US need to focus on?
 
+**Data source**: County level information about the following: vaccination rate, COVID cases, and demographics.
+
+**Communication**: Through Slack direct messages, weekly Zoom meetings. Share files through Google Drive.
+
+## Team Members
+Team Role | Name
+--- | ---
+Square | Emily Li
+Triangle | Valentina Osorio
+Circle | Zina Shah
+X | Arielle Greenspan
+
+## Data Overview
 
 Possible datasets:
 
