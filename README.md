@@ -35,5 +35,9 @@ Demographics datasets:
 * [County breakdown of personal income](https://www.bea.gov/data/income-saving/personal-income-county-metro-and-other-areas)
 * [Religion census](https://www.prri.org/research/2020-census-of-american-religion/)
 
+## Dashboard:
+
+https://ariellegreenspan.github.io/COVID_Dashboard.github.io/
+
 ## Presentation:
 * https://docs.google.com/presentation/d/1SRSn2JbYqsbP9tEyJl9Rk2H5FhZC5YbhJpVtugSUmfg/edit#slide=id.gc6f9e470d_0_37
