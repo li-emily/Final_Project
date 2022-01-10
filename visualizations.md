@@ -18,4 +18,4 @@
     https://public.tableau.com/app/profile/zina.shah/viz/COVID-19VaccineAdministrationEarly2021/Early_2021_Vaccine?publish=yes
 
 * COVID-19 Vaccination Data December 2021 (Recent Vaccination Data)
-        
+    
