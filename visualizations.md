@@ -10,3 +10,6 @@ https://public.tableau.com/app/profile/zina.shah/viz/COVID-19Deathspercounty2021
 
 * COVID-19 Confirmed Cases 2020
 https://public.tableau.com/app/profile/zina.shah/viz/COVID-19Casespercounty2020/Sheet5?publish=yes
+
+* COVID-19 Confirmed Cases 2021
+https://public.tableau.com/app/profile/zina.shah/viz/COVID-19Casespercounty2021/Sheet5?publish=yes
