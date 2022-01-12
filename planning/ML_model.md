@@ -1,8 +1,12 @@
 Provisional Machine Learning Model Outline
 
+![](https://blogs.sas.com/content/subconsciousmusings/files/2017/04/machine-learning-cheet-sheet-2.png)
+
+[img src](https://blogs.sas.com/content/subconsciousmusings/2020/12/09/machine-learning-algorithm-use)
+
 •	Which model did you choose and why?
 
-Logistic regression model was chosen because we want to predict possible future vaccinations and where the US needs to focus on. This logistic regression model will focus on analyzing the available data for COVID vaccinations in US counties. 
+We changed our choice from logisitc regression model to random forest model due to the complexity of the data and accuracy that we want to predict future vaccination rates/COVID rates. The data most likely will not be linear, and the otucomes are not binary. 
 
 •	How are you training your model?
 
