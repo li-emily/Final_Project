@@ -43,12 +43,3 @@ Demographics datasets:
 
 ## Presentation:
 * Hosted at https://docs.google.com/presentation/d/1SRSn2JbYqsbP9tEyJl9Rk2H5FhZC5YbhJpVtugSUmfg/edit#slide=id.gc6f9e470d_0_37
-=======
-Hosted on: https://ariellegreenspan.github.io/COVID_Dashboard.github.io/ 
-
-Code used to build Dashboard can be found in the Flask folder contained within the repository.
-
-## Presentation:
-
-Hosted on: https://docs.google.com/presentation/d/1SRSn2JbYqsbP9tEyJl9Rk2H5FhZC5YbhJpVtugSUmfg/edit#slide=id.gc6f9e470d_0_0
-
