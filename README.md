@@ -28,6 +28,7 @@ Possible datasets:
 * [County breakdown of covid cases](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
 * [Vax demographics data](https://covid.cdc.gov/covid-data-tracker/#vaccination-demographic)
 * [Vaccination rates by ethnicity/race](https://www.kff.org/coronavirus-covid-19/issue-brief/latest-data-on-covid-19-vaccinations-by-race-ethnicity/)
+* [County Vaccine Hesitancy Based on Socioeconomic and Health Access Factors](https://data.cdc.gov/stories/s/cnd2-a6zw)
 
 Demographics datasets:
 
