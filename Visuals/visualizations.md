@@ -19,3 +19,9 @@
 
 * COVID-19 Vaccination Data December 2021 (Recent Vaccination Data)
     https://public.tableau.com/app/profile/zina.shah/viz/COVID-19VaccineAdministrationLate2021/Late_2021_Vaccine?publish=yes
+
+
+ # Storyboard for Dashboard   
+ #### Conceptualization Ideas for Dashboard
+
+ https://docs.google.com/presentation/d/1ALpovgediQ_bLdq4W2oY2uJnHIKJHVdTsb4E91iFyhw/edit?usp=sharing
