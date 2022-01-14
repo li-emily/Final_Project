@@ -1,11 +1,11 @@
 # Final_Project
 
 ## Overview 
-**Topic**: COVID cases and vaccinations on a US county level lens.
+**Topic**: Measuring the Impact of the COVID Epidemic
 
-**Question**: How can we predict possible future cases/vaccinations? Where does the US need to focus on?
+**Question**: Which demographic factors can contribute to the likelihood of developing severe responses to COVID-19
 
-**Data source**: County level information about the following: vaccination rate, COVID cases, and demographics.
+**Data source**: State and County level information about the following: vaccination rate, COVID cases, and demographics.
 
 **Communication**: Through Slack direct messages, weekly Zoom meetings. Share files through Google Drive.
 
@@ -32,14 +32,13 @@ Possible datasets:
 
 Demographics datasets:
 
-* [County breakdown of personal income](https://www.bea.gov/data/income-saving/personal-income-county-metro-and-other-areas)
-* [Religion census](https://www.prri.org/research/2020-census-of-american-religion/)
+
 
 ## Dashboard:
 
 
-* Hosted at https://ariellegreenspan.github.io/COVID_Dashboard.github.io/
+* Hosted at 
 * Code utilized to build Dashboard can be found under the Flask folder of the repository.
 
 ## Presentation:
-* Hosted at https://docs.google.com/presentation/d/1SRSn2JbYqsbP9tEyJl9Rk2H5FhZC5YbhJpVtugSUmfg/edit#slide=id.gc6f9e470d_0_37
+* Hosted at 
