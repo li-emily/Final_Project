@@ -1,4 +1,3 @@
-# Capstone Project
 # Measuring the Impact of the COVID Epidemic
 
 ## Overview:
@@ -59,12 +58,10 @@ The tableau visuals that range from population, COVID-19 cases, deaths and vacci
 ## Dashboard:
 
 * Code utilized to build Dashboard can be found under the Flask folder of the repository.
-* Below is the link to the dashboard slides:
-https://docs.google.com/presentation/d/1ALpovgediQ_bLdq4W2oY2uJnHIKJHVdTsb4E91iFyhw/edit#slide=id.p 
 
 
 ## Presentation:
-Hosted at 
+Hosted at https://docs.google.com/presentation/d/1ALpovgediQ_bLdq4W2oY2uJnHIKJHVdTsb4E91iFyhw/edit#slide=id.p 
 
 ## Results:
 
