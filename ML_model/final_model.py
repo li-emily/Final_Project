@@ -80,7 +80,7 @@ df = df.replace({'Yes': 1, 'No':0})
 df = df.replace(['Unknown', 'Missing', 'NA'], 'NA')
 
 #drop unused columns
-df.drop(['county', 'current_status', 'month'], axis=1, inplace=True)
+df.drop(['county', 'current_status', 'month', 'hospitalized'], axis=1, inplace=True)
 
 #remove all missing values
 df = df[df['state'] != "NA"]
@@ -88,23 +88,18 @@ df = df[df['age_range'] != "NA"]
 df = df[df['sex'] != "NA"]
 df = df[df['race'] != "NA"]
 df = df[df['ethnicity'] != "NA"]
-df = df[df['hospitalized'] != "NA"]
+#df = df[df['hospitalized'] != "NA"]
 df = df[df['died'] != "NA"]
 
 #convert columns
-df['hospitalized'] = df['hospitalized'].astype(float, errors = 'raise')
+#df['hospitalized'] = df['hospitalized'].astype(float, errors = 'raise')
 df['died'] = df['died'].astype(float, errors = 'raise')
 
 df = df.sort_values('state')
 df.state.unique()
 
-df_copy = df.copy().drop('died', axis=1).reset_index(drop=True)
+df_copy = df.copy().drop(['died'], axis=1).reset_index(drop=True)
 print(df_copy.head())
-
-patient = ["OH","65+ years", "Male", "White",	"Non-Hispanic/Latino",	0]
-
-df_copy.loc[len(df_copy)] = patient
-print(df_copy.tail())
 
 df_orig = df.copy()
 print(df.head())
@@ -129,6 +124,28 @@ df['race'] = le_race.fit_transform(df['race'])
 df['ethnicity'] = le_ethnicity.fit_transform(df['ethnicity'])
 
 df
+
+#Convert pandas DF to pyspark DF
+from pyspark.sql import SparkSession
+#Create PySpark SparkSession
+spark = SparkSession.builder \
+    .master("local[1]") \
+    .appName("convert").config("spark.driver.extraClassPath","/content/postgresql-42.2.16.jar").getOrCreate()
+    
+#Create PySpark DataFrame from Pandas
+clean_df=spark.createDataFrame(df) 
+clean_df.printSchema()
+clean_df.show()
+
+#download file to RDS
+mode = "append"
+jdbc_url="jdbc:postgresql://finalproject.c0f9uvcdenwr.us-east-2.rds.amazonaws.com:5433/data_final_project"
+config = {"user":"root",
+          "password": password,
+          "driver":"org.postgresql.Driver"}
+
+# Write DataFrame to final_model table in RDS
+clean_df.write.jdbc(url=jdbc_url, table='final_model', mode=mode, properties=config)
 
 # Split our preprocessed data into our features and target arrays
 y = df["died"]
@@ -187,6 +204,8 @@ plt.ylabel('Feature Importance Score')
 plt.xticks(rotation=45, ha="right")
 plt.show()
 
+rf_model.feature_importances_
+
 from sklearn.metrics import roc_curve
 from matplotlib import pyplot
 
@@ -227,6 +246,8 @@ print(f'proba patient: {prob_patient_death}')
 from sklearn.pipeline import make_pipeline
 # Create pipeline Scaler + RF model
 pipeline = make_pipeline(X_scaler, rf_model)
+
+pipeline
 
 """saving files"""
 
