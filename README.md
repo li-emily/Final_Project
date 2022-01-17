@@ -92,7 +92,7 @@ https://github.com/li-emily/Final_Project/blob/main/planning/technology.md
 
 ## Visualizations:
 
-The tableau visuals that range from population, COVID-19 cases, deaths and vaccinations can be seen in the link below:
+The Tableau visuals that range from population, COVID-19 cases, deaths and vaccinations can be seen in the link below:
 
 * https://github.com/li-emily/Final_Project/blob/main/Visuals/visualizations.md
 
@@ -100,10 +100,13 @@ The tableau visuals that range from population, COVID-19 cases, deaths and vacci
 
 * Code utilized to build Dashboard can be found here:
 * Conceptualization of Dashboard can be found in the link below: https://docs.google.com/presentation/d/1ALpovgediQ_bLdq4W2oY2uJnHIKJHVdTsb4E91iFyhw/edit#slide=id.p 
+* The link to our Heroku Dashboard can be found here: 
 
 
 ## Presentation:
 
 * Our Google Slide Presentation can be found in the link below:
+
+https://docs.google.com/presentation/d/1PIXc8MoQCyhf88awjZfFVZ0AFq4j6_KTh0REr4ba3PE/edit?usp=drive_web&ouid=102424223461130273036
 
 
