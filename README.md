@@ -63,6 +63,8 @@ Most of our datasets came from various CDC sources. Due to the vast amount of da
 
 **Benefits of our Model**
 * Collection of prediction trees helps estimate variable importance and can handle big data with multiple variables quickly.
+* Our final question based on our available data was: Would these certain factors predispose patients to mortality from COVID-19? The random forest model was chosen since it would fit the parameters needed to predict a binary outcome.
+
 
 **Steps Taken
 * Removed features so the model was not so crowded. 
@@ -71,10 +73,6 @@ Most of our datasets came from various CDC sources. Due to the vast amount of da
 
 **Limitations of Our Model**
 * May overfit if data is messy due to adding more decision trees to the algorithm for the best result.
-
-**Why We Chose Our Model
-* Our final question based on our available data was: Would these certain factors predispose patients to mortality from COVID-19?
-* The random forest model would fit the parameters needed to predict a binary outcome.
 
 **Our Model at Work**
 ![Image](Resources/Image.png)
