@@ -39,6 +39,24 @@ X | Arielle Greenspan
 * Depict data findings in Tableau and Javascript models.
 * Depict data findings in Tableau and Javascript models.
 
+**Original Datasets:**
+
+ **Vaccinations**
+ 
+ ![Original_covid_vaccinations_1](https://user-images.githubusercontent.com/88119288/149823576-6a0939ff-ee65-464f-b43a-37c2a51ae93a.PNG)
+ 
+**COVID Confirmed**
+
+![Original_covid_confirmed1](https://user-images.githubusercontent.com/88119288/149825909-de0ea531-00c5-499f-a36b-85e4f15a01d7.png)
+
+**COVID Deaths**
+
+![Original_covid_deaths1](https://user-images.githubusercontent.com/88119288/149826009-41780e98-5c1c-4ab5-be66-b08df281d74d.png)
+ 
+**Final Merged Dataset**
+
+![Final_complete_dataset](https://user-images.githubusercontent.com/88119288/149824499-f26d0e29-2ee3-480f-980f-a6a8f05c317a.PNG)
+
 Most of our datasets came from various CDC sources. Due to the vast amount of data, we had to do some significant cleaning before we were able to use it for our machine learning model. There was a lot of data that we had to remove since it did not correlate to our project's main focus. There were missing and null values. We had to merge various CSV files by date, state and county. Overall, we managed to get a clean dataset to proceed with our analysis.
  
 ## Machine Learning Model
@@ -59,9 +77,13 @@ Most of our datasets came from various CDC sources. Due to the vast amount of da
 * The random forest model would fit the parameters needed to predict a binary outcome.
 
 **Our Model at Work**
-
-
 ![Image](Resources/Image.png)
+
+## Challenges and Recommendations
+
+* Many of our datasets were difficult to clean and did not merge properly with other datasets. Next time, we would use datasets that were more clean to start with. 
+* When it came to creating our dashboard, some of our files were too large to work with when building the html page. In the future, we would decrease the size of the file and pare down the data prior to building the html page.
+* We had such a large breadth of data from the CDC, so it was hard to tell what was really relevant to our predictive model. In the future, we would try to have a clearer vision of what data is necessary.
 
 ## Technology Used:
 We used an array of software and analytic tools to complete our project. These resources are depicted and elaborated upon in the link below:
@@ -85,12 +107,3 @@ The tableau visuals that range from population, COVID-19 cases, deaths and vacci
 
 https://docs.google.com/presentation/d/1ALpovgediQ_bLdq4W2oY2uJnHIKJHVdTsb4E91iFyhw/edit#slide=id.p 
 
-
-**Challenges and Recommendations**
-
-* Many of our datasets were difficult to clean and did not merge properly with other datasets. Next time, we would use datasets that were more clean to start with. 
-* When it came to creating out dashboard, some of our files were too large to work with when building the html page. In the future, we would decrease the size of the file and pare down the data prior to building the html page.
-* We had such a large breadth of data from the CDC, so it was hard to tell what was really relevant to our predictive model. In the future, we would try to have a clearer vision of what data is necessary.
-
-
-**Conclusion**
