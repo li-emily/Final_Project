@@ -31,19 +31,16 @@ X | Arielle Greenspan
 
 ## Data Overview
 
-Possible datasets:
+**Data Exploration Phase**:
 
-* [Covid cases by states](https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36)
-* [State by state covid vaccinations](https://ourworldindata.org/us-states-vaccinations)
-* [County covid vaccinations](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/distributing/reporting-counties.html)
-* [County covid vax dataset 2](https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh)
-* [County breakdown of covid cases](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
-* [Vax demographics data](https://covid.cdc.gov/covid-data-tracker/#vaccination-demographic)
-* [Vaccination rates by ethnicity/race](https://www.kff.org/coronavirus-covid-19/issue-brief/latest-data-on-covid-19-vaccinations-by-race-ethnicity/)
-* [County Vaccine Hesitancy Based on Socioeconomic and Health Access Factors](https://data.cdc.gov/stories/s/cnd2-a6zw)
+* Clean data to determine number of cases and deaths
+* Examine vaccination rates per state and county
+* Determine factors which would reduce vaccination rate
+* Depict data findings in Tableau and Javascript models.
+* Depict data findings in Tableau and Javascript models.
 
-Demographics datasets:
-
+Most of our datasets came from various CDC sources. Due to the vast amount of data, we had to do some significant cleaning before we were able to use it for our machine learning model. There was a lot of data that we had to remove since it did not correlate to our project's main focus. There were missing and null values. We had to merge various CSV files by date, state and county. Overall, we managed to get a clean dataset to proceed with our analysis.
+ 
 ## Machine Learning Model
 
 **Benefits of our Model**
