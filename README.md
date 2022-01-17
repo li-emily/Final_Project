@@ -99,11 +99,11 @@ The tableau visuals that range from population, COVID-19 cases, deaths and vacci
 ## Dashboard:
 
 * Code utilized to build Dashboard can be found here:
-* Conceptualization of Dashboard can be found in the link below:
+* Conceptualization of Dashboard can be found in the link below: https://docs.google.com/presentation/d/1ALpovgediQ_bLdq4W2oY2uJnHIKJHVdTsb4E91iFyhw/edit#slide=id.p 
+
 
 ## Presentation:
 
 * Our Google Slide Presentation can be found in the link below:
 
-https://docs.google.com/presentation/d/1ALpovgediQ_bLdq4W2oY2uJnHIKJHVdTsb4E91iFyhw/edit#slide=id.p 
 
