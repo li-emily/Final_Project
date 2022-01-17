@@ -44,8 +44,18 @@ Most of our datasets came from various CDC sources. Due to the vast amount of da
 ## Machine Learning Model
 
 **Benefits of our Model**
+* Collection of prediction trees helps estimate variable importance and can handle big data with multiple variables quickly.
+
+**Steps Taken
+* Removed features so the model was not so crowded. 
+* Trained with a large dataset to help the algorithm. 
+* Limited n estimators.
 
 **Limitations of Our Model**
+* May overfit if data is messy due to adding more decision trees to the algorithm for the best result.
+
+**Why We Chose Our Model
+* Our final question based on our available data was to predict a binary outcome: would these certain factors cause death from COVID-19. Thus random forest was a good model to choose.
 
 **Our Model at Work**
 [!Image](Resources/Image.png)
@@ -63,14 +73,12 @@ The tableau visuals that range from population, COVID-19 cases, deaths and vacci
 ## Dashboard:
 
 * Code utilized to build Dashboard can be found under the Flask folder of the repository.
-
-
-## Presentation:
+* Conceptualization of Dashboard can be found in the link below:
 Hosted at https://docs.google.com/presentation/d/1ALpovgediQ_bLdq4W2oY2uJnHIKJHVdTsb4E91iFyhw/edit#slide=id.p 
 
-## Results:
+## Presentation:
 
-## Analysis:
+* Our Google Slide Presentation can be found in the link below:
 
 **Challenges and Recommendations**
 
