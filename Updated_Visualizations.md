@@ -1,4 +1,10 @@
-# Updated Visualizations for Tableau Dashboard:
+# Dashboard:
+* Two Dashboards will be used for our presentation.
+    * Dashboard 1: Interactive Webpage using Machine Learning Model (created through Python Flask, to be deployed through Heroku)
+    * Dashboard 2: Tableau Public Interactive Visualizations Dashboard - Presenting the data collected in interesting and eye-catching ways. 
+
+
+# Tableau Dashboard (Updated Visualizations):
 
 * [Population per US County](https://public.tableau.com/app/profile/zina.shah/viz/PopulationofUSCountiesasof2020Census/Pop_US_Counties?publish=yes)
 
