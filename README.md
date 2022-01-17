@@ -2,16 +2,24 @@
 
 ## Overview:
 
-## Purpose: 
+## Reason for Selecting Topic: 
 
 The aim of our analysis is to determine how demographic factors including location, age-range, sex, race, and ethncity, contribute to the likelihood of developing severe responses to COVID-19? The team chose this topic since the COVID pandemic has dominated life in the United States over the past two years. As vaccines and medications have been developed, we wanted to explore and see which communities in the United States were most at risk for negative outcomes. 
 
-**Source of Data**: 
+## Source of Data: 
 
  We utilized sources provided by the CDC website which examined: 
   * Demographics of Patients withg COVID-19 in 2021 
   * Population Vaccination Data in 2021
   * Hospitalization and Mortality in Patients with COVID-19 in 2021
+
+## Questions We Hope to Answer:
+
+* How many deaths have been caused by COVID-19 in each state in the United States?
+* How many cases have occurred in 2021?
+* How many people have received the COVID-19 vaccine in each state?
+* What demographic and economic factors might lead to vaccine hesitancy?
+* Have COVID-19 vaccines led to a decrease in deaths in the United States?
 
 ## Team Members
 Team Role | Name
