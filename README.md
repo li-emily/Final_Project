@@ -2,16 +2,16 @@
 
 ## Overview:
 
-  The aim of our analysis is to determine how demographic factors including location, age-range, sex, race, and ethncity, contribute to the likelihood of developing severe responses to COVID-19? The team chose this topic since the COVID pandemic has dominated life in the United States over the past two years. As vaccines and medications have been developed, we wanted to explore and see which communities in the United States were most at risk for negative outcomes. 
+## Purpose: 
 
-**Data source**: 
+The aim of our analysis is to determine how demographic factors including location, age-range, sex, race, and ethncity, contribute to the likelihood of developing severe responses to COVID-19? The team chose this topic since the COVID pandemic has dominated life in the United States over the past two years. As vaccines and medications have been developed, we wanted to explore and see which communities in the United States were most at risk for negative outcomes. 
 
-  We utilized sources provided by the CDC which examined: 
+**Source of Data**: 
+
+ We utilized sources provided by the CDC website which examined: 
   * Demographics of Patients withg COVID-19 in 2021 
   * Population Vaccination Data in 2021
   * Hospitalization and Mortality in Patients with COVID-19 in 2021
-
-**Communication**: We agreed to meet twice a week via zoom and created a group chat in Slack so that we can maintain contact and respond to any immediate concerns. We also created a google drive shared file share data sites and ideas regarding the project. 
 
 ## Team Members
 Team Role | Name
