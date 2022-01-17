@@ -58,7 +58,7 @@ Most of our datasets came from various CDC sources. Due to the vast amount of da
 * Our final question based on our available data was to predict a binary outcome: would these certain factors cause death from COVID-19. Thus random forest was a good model to choose.
 
 **Our Model at Work**
-[!Image](Resources/Image.png)
+![Image](Resources/Image.png)
 
 ## Technology Used:
 We used a variety of technologies to complete our project, which are shown in the link below:
