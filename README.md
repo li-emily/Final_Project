@@ -55,17 +55,21 @@ Most of our datasets came from various CDC sources. Due to the vast amount of da
 * May overfit if data is messy due to adding more decision trees to the algorithm for the best result.
 
 **Why We Chose Our Model
-* Our final question based on our available data was to predict a binary outcome: would these certain factors cause death from COVID-19. Thus random forest was a good model to choose.
+* Our final question based on our available data was: Would these certain factors predispose patients to mortality from COVID-19?
+* The random forest model would fit the parameters needed to predict a binary outcome.
 
 **Our Model at Work**
+
+
 ![Image](Resources/Image.png)
 
 ## Technology Used:
-We used a variety of technologies to complete our project, which are shown in the link below:
+We used an array of software and analytic tools to complete our project. These resources are depicted and elaborated upon in the link below:
 
 https://github.com/li-emily/Final_Project/blob/main/planning/technology.md
 
 ## Visualizations:
+
 The tableau visuals that range from population, COVID-19 cases, deaths and vaccinations can be seen in the link below:
 
 * https://github.com/li-emily/Final_Project/blob/main/Visuals/visualizations.md
@@ -74,11 +78,13 @@ The tableau visuals that range from population, COVID-19 cases, deaths and vacci
 
 * Code utilized to build Dashboard can be found under the Flask folder of the repository.
 * Conceptualization of Dashboard can be found in the link below:
-Hosted at https://docs.google.com/presentation/d/1ALpovgediQ_bLdq4W2oY2uJnHIKJHVdTsb4E91iFyhw/edit#slide=id.p 
 
 ## Presentation:
 
 * Our Google Slide Presentation can be found in the link below:
+
+https://docs.google.com/presentation/d/1ALpovgediQ_bLdq4W2oY2uJnHIKJHVdTsb4E91iFyhw/edit#slide=id.p 
+
 
 **Challenges and Recommendations**
 
