@@ -4,7 +4,7 @@
     * Dashboard 2: Tableau Public Interactive Visualizations Dashboard - Presenting the data collected in interesting and eye-catching ways. 
 
 # Tableau Dashboard:
-* [Click Here To View Our Data Dashboard!](https://public.tableau.com/app/profile/zina.shah/viz/ADeepDiveIntoCOVID_19/Dashboard2?publish=yes)
+* [Click Here To View Our Data Dashboard!](https://public.tableau.com/app/profile/zina.shah/viz/Dashboard_COVID_16424202837860/Dashboard2?publish=yes)
 
 # Tableau Dashboard (Updated Visualizations):
 
