@@ -3,6 +3,8 @@
     * Dashboard 1: Interactive Webpage using Machine Learning Model (created through Python Flask, to be deployed through Heroku)
     * Dashboard 2: Tableau Public Interactive Visualizations Dashboard - Presenting the data collected in interesting and eye-catching ways. 
 
+# Tableau Dashboard:
+* [Click Here To View Our Data Dashboard!](https://public.tableau.com/app/profile/zina.shah/viz/ADeepDiveIntoCOVID_19/Dashboard2?publish=yes)
 
 # Tableau Dashboard (Updated Visualizations):
 
