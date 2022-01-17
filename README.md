@@ -76,7 +76,7 @@ The tableau visuals that range from population, COVID-19 cases, deaths and vacci
 
 ## Dashboard:
 
-* Code utilized to build Dashboard can be found under the Flask folder of the repository.
+* Code utilized to build Dashboard can be found here:
 * Conceptualization of Dashboard can be found in the link below:
 
 ## Presentation:
