@@ -26,6 +26,16 @@
 
 * [COVID-19 Vaccinations per US County December 2021 (Sampled States)](https://public.tableau.com/app/profile/zina.shah/viz/December2021VaccinationsperSampledStates/Vacc_Dec21_States_Studied?publish=yes)
 
+* [COVID-19 Deaths per US County 1-1-2021](https://public.tableau.com/app/profile/zina.shah/viz/COVID-19DeathsperUSCountyasofJan12021/Deaths_Jan2021?publish=yes)
+
+* [COVID-19 Deaths per US County 1-1-2021 (Sampled States)](https://public.tableau.com/app/profile/zina.shah/viz/COVID-19DeathsperUSCountyasofJan12021SampledStates/Deaths_Jan2021_spl?publish=yes)
+
+* [COVID-19 Deaths per US County 12-1-2021](https://public.tableau.com/app/profile/zina.shah/viz/COVID-19DeathsperUSCountyasofDec12021/Deaths_Dec2021?publish=yes)
+
+* [COVID-19 Deaths per US County 12-1-2021 (Sampled States)](https://public.tableau.com/app/profile/zina.shah/viz/COVID-19DeathsperUSCountyasofDec12021SampledStates/Deaths_Dec2021_spl?publish=yes)
+
+* [US Hospitalizations in 2021](https://public.tableau.com/app/profile/zina.shah/viz/USCOVID-19Hospitalizations/Hosp?publish=yes)
+
 * [Hospitalizations per Age Group (2021)](https://public.tableau.com/app/profile/zina.shah/viz/COVID-19HospitalizationsperAgeGroup2021/Hospital_Age_Groups?publish=yes)
 
 * [Deaths per Age Group (2021)](https://public.tableau.com/app/profile/zina.shah/viz/COVID-19DeathsperAgeGroup2021/Deaths_Age_Groups?publish=yes)
