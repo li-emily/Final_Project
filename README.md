@@ -94,7 +94,7 @@ https://github.com/li-emily/Final_Project/blob/main/planning/technology.md
 
 The Tableau visuals that range from population, COVID-19 cases, deaths and vaccinations can be seen in the link below:
 
-* https://github.com/li-emily/Final_Project/blob/main/Visuals/visualizations.md
+https://public.tableau.com/app/profile/zina.shah/viz/Dashboard_COVID_16424202837860/Dashboard2?publish=yes
 
 ## Dashboard:
 
