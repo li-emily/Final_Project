@@ -96,9 +96,10 @@ https://public.tableau.com/app/profile/zina.shah/viz/Dashboard_COVID_16424202837
 
 ## Dashboard:
 
-* Code utilized to build Dashboard can be found here:
+* Code utilized to build Dashboard can be found here: https://github.com/ariellegreenspan/covid-severity2 and in the Interactive Dashboard Folder on teh Final_Project github.
 * Conceptualization of Dashboard can be found in the link below: https://docs.google.com/presentation/d/1ALpovgediQ_bLdq4W2oY2uJnHIKJHVdTsb4E91iFyhw/edit#slide=id.p 
 * The link to our Heroku Dashboard can be found here: https://covid-severity2.herokuapp.com/
+* The link to our Vaccination Summary table can be found here: https://covid-severity2.herokuapp.com/summmary
 
 
 ## Presentation:
