@@ -39,6 +39,10 @@ X | Arielle Greenspan
 * Depict data findings in Tableau and Javascript models.
 * Depict data findings in Tableau and Javascript models.
 
+**ERD:**
+* Below is an ERD demonstrating the relationships between each of these entities from the different datasets we used for the machine learning model and visualizations:
+![ERD2](https://user-images.githubusercontent.com/88119288/150011141-fe51a33b-40ee-418a-814e-0b0a0214c865.PNG)
+
 **Original Datasets:**
 
  **Vaccinations**
