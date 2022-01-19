@@ -103,7 +103,7 @@ We used an array of software and analytic tools to complete our project. These r
 
 ## Visualizations:
 
-Preview of some of our tableau visualizations:
+A Preview of some of the Tableau visuals that range from COVID-19 cases, deaths and demographic data can be seen below:
 
 * COVID cases per US county as of 1/1/2021
 
@@ -129,7 +129,7 @@ Preview of some of our tableau visualizations:
 
 ![Image](Resources/Race.png)
 
-The Tableau visuals that range from population, COVID-19 cases, deaths and vaccinations can be seen in the link below:
+### Our comprehensive Tableau Data Dashboard can be found below, explaining our data story.
 
 [View Our Tableau Data Dashboard](https://public.tableau.com/app/profile/zina.shah/viz/ADeepDiveintoCOVID-19LetsSeetheData/Final_Dashboard)
 
