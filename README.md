@@ -79,6 +79,7 @@ Most of our datasets came from various CDC sources. Due to the vast amount of da
 * May overfit if data is messy due to adding more decision trees to the algorithm for the best result.
 
 **Our Model at Work**
+
 ![Image](Resources/Image.png)
 
 ## Challenges and Recommendations
@@ -88,7 +89,7 @@ Most of our datasets came from various CDC sources. Due to the vast amount of da
 * We had such a large breadth of data from the CDC, so it was hard to tell what was really relevant to our predictive model. In the future, we would try to have a clearer vision of what data is necessary.
 
 ## Technology Used:
-We used an array of software and analytic tools to complete our project. These resources are depicted and elaborated upon in the link below:
+We used an array of software and analytic tools to complete our project. These resources are depicted and elaborated upon below:
 
 * Python - Data Cleaning, Machine Learning Model
 * Jupyter Notebook - Data Cleaning 
@@ -104,7 +105,23 @@ We used an array of software and analytic tools to complete our project. These r
 
 Preview of some of our tableau visualizations:
 
+* COVID cases per US county as of 1/1/2021
+![Image](Resources/Cases1.png)
 
+* COVID cases per US county as of 12/1/2021
+![Image](Resources/Cases2.png)
+
+* COVID deathes per US county as of 1/1/2021
+![Image](Resources/Death1.png)
+
+* COVID deathes per US county as of 12/1/2021 
+![Image](Resources/Death2.png)
+
+* US Hospitalizations over 2021
+![Image](Resources/Hospital1.png)
+
+* COVID Hospitalizations and Deaths per Racial Group
+![Image](Resources/Race.png)
 
 The Tableau visuals that range from population, COVID-19 cases, deaths and vaccinations can be seen in the link below:
 
@@ -115,7 +132,7 @@ The Tableau visuals that range from population, COVID-19 cases, deaths and vacci
 * Code utilized to build Dashboard can be found [here.](https://github.com/ariellegreenspan/covid-severity2)
 * Conceptualization of Dashboard can be found [here.](https://docs.google.com/presentation/d/1ALpovgediQ_bLdq4W2oY2uJnHIKJHVdTsb4E91iFyhw/edit#slide=id.p)
 * The link to our Heroku Dashboard can be found [here.](https://covid-severity2.herokuapp.com/)
-* The link to our Vaccination Summary table can be found [here.](https://covid-severity2.herokuapp.com/summmary)
+* The link to our Vaccination Summary table can be found [here.](https://covid-severity2.herokuapp.com/summary)
 * The link to our comprehensive data sourced from our database can be found [here.](https://covid-severity2.herokuapp.com/booster_table)
 
 
