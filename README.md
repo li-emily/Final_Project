@@ -74,10 +74,12 @@ Most of our datasets came from various CDC sources. Due to the vast amount of da
 * Our final question based on our available data was: Would these certain factors predispose patients to mortality from COVID-19? The random forest model was chosen since it would fit the parameters needed to predict a binary outcome.
 
 
-**Steps Taken
+**Steps Taken**
 * Removed features so the model was not so crowded. 
 * Trained with a large dataset to help the algorithm. 
 * Limited n estimators.
+
+**Training and Testing of Model**
 
 **Limitations of Our Model**
 * May overfit if data is messy due to adding more decision trees to the algorithm for the best result.
