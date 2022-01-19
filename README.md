@@ -113,11 +113,11 @@ A Preview of some of the Tableau visuals that range from COVID-19 cases, deaths 
 
 ![Image](Resources/Case2.png)
 
-* COVID deathes per US county as of 1/1/2021
+* COVID deaths per US county as of 1/1/2021
 
 ![Image](Resources/Death1.png)
 
-* COVID deathes per US county as of 12/1/2021 
+* COVID deaths per US county as of 12/1/2021 
 
 ![Image](Resources/Death2.png)
 
