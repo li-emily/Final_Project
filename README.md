@@ -90,27 +90,37 @@ Most of our datasets came from various CDC sources. Due to the vast amount of da
 ## Technology Used:
 We used an array of software and analytic tools to complete our project. These resources are depicted and elaborated upon in the link below:
 
-https://github.com/li-emily/Final_Project/blob/main/planning/technology.md
+* Python - Data Cleaning, Machine Learning Model
+* Jupyter Notebook - Data Cleaning 
+* Postgres (SQL) - Database
+* Amazon Web Services (AWS) - Networked Database
+* Google Colab - Machine Learning Model 
+* Tableau - Data Visualizations 
+* Flask - Webpage / Interactive Dashboard Creation 
+* HTML - Webpage / Interactive Dashboard Creation
+* Heroku - Deployment of Webpage 
 
 ## Visualizations:
 
+Preview of some of our tableau visualizations:
+
+
+
 The Tableau visuals that range from population, COVID-19 cases, deaths and vaccinations can be seen in the link below:
 
-https://public.tableau.com/app/profile/zina.shah/viz/Dashboard_COVID_16424202837860/Dashboard2?publish=yes
+[View Our Tableau Data Dashboard](https://public.tableau.com/app/profile/zina.shah/viz/ADeepDiveintoCOVID-19LetsSeetheData/Final_Dashboard)
 
 ## Dashboard:
 
-* Code utilized to build Dashboard can be found here: https://github.com/ariellegreenspan/covid-severity2 
-* Conceptualization of Dashboard can be found in the link below: https://docs.google.com/presentation/d/1ALpovgediQ_bLdq4W2oY2uJnHIKJHVdTsb4E91iFyhw/edit#slide=id.p 
-* The link to our Heroku Dashboard can be found here: https://covid-severity2.herokuapp.com/
-* The link to our Vaccination Summary table can be found here: https://covid-severity2.herokuapp.com/summmary
-* The link to our comprehensive data sourced from our database can be found here: https://covid-severity2.herokuapp.com/booster_table
+* Code utilized to build Dashboard can be found [here.](https://github.com/ariellegreenspan/covid-severity2)
+* Conceptualization of Dashboard can be found [here.](https://docs.google.com/presentation/d/1ALpovgediQ_bLdq4W2oY2uJnHIKJHVdTsb4E91iFyhw/edit#slide=id.p)
+* The link to our Heroku Dashboard can be found [here.](https://covid-severity2.herokuapp.com/)
+* The link to our Vaccination Summary table can be found [here.](https://covid-severity2.herokuapp.com/summmary)
+* The link to our comprehensive data sourced from our database can be found [here.](https://covid-severity2.herokuapp.com/booster_table)
 
 
 ## Presentation:
 
-* Our Google Slide Presentation can be found in the link below:
-
-https://docs.google.com/presentation/d/1PIXc8MoQCyhf88awjZfFVZ0AFq4j6_KTh0REr4ba3PE/edit?usp=drive_web&ouid=102424223461130273036
+* An Overview of our Presentation can be found [here.](https://docs.google.com/presentation/d/1PIXc8MoQCyhf88awjZfFVZ0AFq4j6_KTh0REr4ba3PE/edit?usp=drive_web&ouid=102424223461130273036)
 
 
