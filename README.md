@@ -96,8 +96,25 @@ Most of our datasets came from various CDC sources. Due to the vast amount of da
 ## Technology Used:
 We used an array of software and analytic tools to complete our project. These resources are depicted and elaborated upon below:
 
-* Python - Data Cleaning, Machine Learning Model
-* Jupyter Notebook - Data Cleaning 
+* Data Cleaning/Analysis:
+  * Python Pandas
+  * Jupyter Notebook 
+* Database Creation:
+  * PostgreSQL
+  * Amazon Web Services (AWS)
+* Connecting to the Database:
+  * Psycopg2
+* Machine Learning:
+  * Scikit-Learn
+  * TensorFlow
+  * Google Colab 
+* Dashboard(s):
+  * Tableau
+  * Javascript
+  * Flask
+  * HTML
+  * Heroku 
+
 * Postgres (SQL) - Database
 * Amazon Web Services (AWS) - Networked Database
 * Google Colab - Machine Learning Model 
@@ -142,9 +159,9 @@ A Preview of some of the Tableau visuals that range from COVID-19 cases, deaths 
 
 * Code utilized to build Dashboard can be found [here.](https://github.com/ariellegreenspan/covid-severity2)
 * Conceptualization of Dashboard can be found [here.](https://docs.google.com/presentation/d/1ALpovgediQ_bLdq4W2oY2uJnHIKJHVdTsb4E91iFyhw/edit#slide=id.p)
-* The link to our Heroku Dashboard can be found [here.](https://covid-severity2.herokuapp.com/)
-* The link to our Vaccination Summary table can be found [here.](https://covid-severity2.herokuapp.com/summary)
-* The link to our comprehensive data sourced from our database can be found [here.](https://covid-severity2.herokuapp.com/booster_table)
+* The link to our Heroku Dashboard can be found here: https://covid-severity2.herokuapp.com/
+* The link to our Vaccination Summary table can be found here: https://covid-severity2.herokuapp.com/summary
+* The link to our comprehensive data sourced from our database can be found here: https://covid-severity2.herokuapp.com/booster_table
 
 
 ## Presentation:
