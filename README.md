@@ -109,19 +109,13 @@ We used an array of software and analytic tools to complete our project. These r
   * TensorFlow
   * Google Colab 
 * Dashboard(s):
-  * Tableau
-  * Javascript
-  * Flask
-  * HTML
-  * Heroku 
-
-* Postgres (SQL) - Database
-* Amazon Web Services (AWS) - Networked Database
-* Google Colab - Machine Learning Model 
-* Tableau - Data Visualizations 
-* Flask - Webpage / Interactive Dashboard Creation 
-* HTML - Webpage / Interactive Dashboard Creation
-* Heroku - Deployment of Webpage 
+  * Visualization Dashboard:
+    * Tableau
+  * Interactive Web-page:
+    * Javascript
+    * Flask
+    * HTML
+    * Heroku 
 
 ## Visualizations:
 
