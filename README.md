@@ -8,7 +8,7 @@ The COVID-19 pandemic over 2021 & predicting COVID case severity.
 
 ## Reason for Selecting Topic: 
 
-The aim of our analysis is to determine how demographic factors including location, age-range, sex, race, and ethncity, contribute to the likelihood of developing severe responses to COVID-19? The team chose this topic since the COVID pandemic has dominated life in the United States over the past two years. As vaccines and medications have been developed, we wanted to explore and see which communities in the United States were most at risk for negative outcomes. 
+The aim of our analysis is to determine how demographic factors including location, age-range, sex, race, and ethncity, contribute to the likelihood of developing severe responses to COVID-19. The team chose this topic since the COVID pandemic has dominated life in the United States over the past two years. We thought it would be interesting to predict how likely you are to have a severe case of COVID, if you were exposed to the virus. As vaccines and medications have been developed, we wanted to explore and see which communities in the United States were most at risk for negative outcomes.  
 
 ## Source of Data: 
 
@@ -19,10 +19,10 @@ The aim of our analysis is to determine how demographic factors including locati
 
 ## Questions We Hope to Answer:
 
+* If I came into contact with COVID, how severe will my case be?
 * How many deaths have been caused by COVID-19 in each state in the United States?
 * How many cases have occurred in 2021?
 * How many people have received the COVID-19 vaccine in each state?
-* What demographic and economic factors might lead to vaccine hesitancy?
 * Have COVID-19 vaccines led to a decrease in deaths in the United States?
 
 ## Team Members
@@ -91,6 +91,7 @@ Most of our datasets came from various CDC sources. Due to the vast amount of da
 * Many of our datasets were difficult to clean and did not merge properly with other datasets. Next time, we would use datasets that were more clean to start with. 
 * When it came to creating our dashboard, some of our files were too large to work with when building the html page. In the future, we would decrease the size of the file and pare down the data prior to building the html page.
 * We had such a large breadth of data from the CDC, so it was hard to tell what was really relevant to our predictive model. In the future, we would try to have a clearer vision of what data is necessary.
+* Further exploration could also be implemented to include more demographic factors such as socioeconomic factors, political affiliations, income levels to provide an even more precise prediction that mimics real-world scenarios.
 
 ## Technology Used:
 We used an array of software and analytic tools to complete our project. These resources are depicted and elaborated upon below:
