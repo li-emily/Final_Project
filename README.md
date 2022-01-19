@@ -106,10 +106,10 @@ We used an array of software and analytic tools to complete our project. These r
 Preview of some of our tableau visualizations:
 
 * COVID cases per US county as of 1/1/2021
-![Image](Resources/Cases1.png)
+![Image](Resources/Case1.png)
 
 * COVID cases per US county as of 12/1/2021
-![Image](Resources/Cases2.png)
+![Image](Resources/Case2.png)
 
 * COVID deathes per US county as of 1/1/2021
 ![Image](Resources/Death1.png)
