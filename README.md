@@ -29,12 +29,12 @@ The aim of our analysis is to determine how demographic factors including locati
 * Have COVID-19 vaccines led to a decrease in deaths in the United States?
 
 ## Team Members
-Team Role | Name
---- | ---
-Square | Emily Li
-Triangle | Valentina Osorio
-Circle | Zina Shah
-X | Arielle Greenspan
+Team Role | Name | Tasks Covered
+--- | --- | --- |
+Square | Emily Li | Machine Learning Model, GitHub Management 
+Triangle | Valentina Osorio | Data Exploration, Cleaning, Database
+Circle | Zina Shah | Visualizations & Tableau Dashboard 
+X | Arielle Greenspan | Interactive Webpage (Flask) Dashboard
 
 ## Data Overview
 
