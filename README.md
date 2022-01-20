@@ -168,7 +168,12 @@ A Preview of some of the Tableau visuals that range from COVID-19 cases, deaths 
 
 #### Tableau Dashboard:
 
-Watch a video demonstration of our dashboards:
+Watch a video demonstration of our Tableau Visualization Dashboard:
+* [Tableau Visualizations](https://vimeo.com/668098269)
+
+#### Interactive Webpage Dashboard:
+
+Watch a video demonstration of our Interative Web-based Dashboards:
 
 * [COVID-19 Severity Predictor](https://vimeo.com/668080285)
 * [Vaccination Status Tracker](https://vimeo.com/668080887)
