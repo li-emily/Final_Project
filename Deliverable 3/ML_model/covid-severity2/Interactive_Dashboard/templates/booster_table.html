@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title></title>
+</head>
+<body>
+<style>
+ 
+ td {
+        width: 150px;
+        text-align: center;
+        border: 1px solid black;
+        padding: 5px;
+      }
+</style>
+<table>
+  <thead>
+    <tr>
+        <th>county_name</th>
+        <th>state</th>
+        <th>cases</th>
+        <th>deaths</th>
+        <th>completely_vaccinated_population</th>
+        <th>dose_1_population</th>
+        <th>booster_dose_population</th>
+    </tr>
+    </thead>    
+    <tbody>
+      <tbody>
+            {% for booster in Booster %}
+               <tr>
+                  <td>{{ booster.county_name }}</td>
+                  <td>{{ booster.state }}</td>
+                  <td>{{ booster.cases }}</td>
+                  <td>{{ booster.deaths }}</td>
+                  <td>{{ booster.completely_vaccinated_population }}</td>
+                  <td>{{ booster.dose_1_population }}</td>
+                  <td>{{ booster.booster_dose_population }}</td>
+               </tr>
+            {% endfor %}
+       </tbody>
+</table>
+</body>
+</html>
