@@ -83,7 +83,11 @@ Most of our datasets came from various CDC sources. Due to the vast amount of da
 * Limited n estimators.
 
 **Training and Testing of Model**
-
+* Data was split into features and target arrays.
+* Split into training and testing datasets.
+* Create and fit standard scaler, and then scale the data.
+* Used sklearn's Random Forest Classifier to fit the model.
+* Exported joblib pipeline for machine learning model connection with the interactive dashboard.
 
 **Limitations of Our Model**
 * May overfit if data is messy due to adding more decision trees to the algorithm for the best result.
