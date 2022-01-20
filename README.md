@@ -81,6 +81,7 @@ Most of our datasets came from various CDC sources. Due to the vast amount of da
 
 **Training and Testing of Model**
 
+
 **Limitations of Our Model**
 * May overfit if data is messy due to adding more decision trees to the algorithm for the best result.
 
@@ -141,7 +142,7 @@ A Preview of some of the Tableau visuals that range from COVID-19 cases, deaths 
 
 * US Hospitalizations over 2021
 
-![Image](Resources/Hospital1.png)
+![Image](Resources/NewHosp.png)
 
 * COVID Hospitalizations and Deaths per Racial Group
 
