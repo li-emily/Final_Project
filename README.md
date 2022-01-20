@@ -13,7 +13,7 @@ The aim of our analysis is to determine how demographic factors including locati
 ## Source of Data: 
 
  We utilized sources provided by the CDC website which examined: 
-  * Demographics of Patients withg COVID-19 in 2021 
+  * Demographics of Patients with COVID-19 in 2021 
   * Population Vaccination Data in 2021
   * Hospitalization and Mortality in Patients with COVID-19 in 2021
 
