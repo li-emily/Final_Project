@@ -149,7 +149,7 @@ A Preview of some of the Tableau visuals that range from COVID-19 cases, deaths 
 
   ### Our comprehensive Tableau Data Dashboard can be found below, explaining our data story.
 
-    [View Our Tableau Data Dashboard](https://public.tableau.com/app/profile/zina.shah/viz/ADeepDiveintoCOVID-19LetsSeetheData/Final_Dashboard)
+   [View Our Tableau Data Dashboard](https://public.tableau.com/app/profile/zina.shah/viz/ADeepDiveintoCOVID-19LetsSeetheData/Final_Dashboard)
 
 ## Dashboard:
 
