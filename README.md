@@ -17,6 +17,9 @@ The aim of our analysis is to determine how demographic factors including locati
   * Population Vaccination Data in 2021
   * Hospitalization and Mortality in Patients with COVID-19 in 2021
 
+ Other Sources:
+  * US Census Data 
+
 ## Questions We Hope to Answer:
 
 * If I came into contact with COVID, how severe will my case be?
